@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Arael 文字堆放实验 04-1
 
-You can use the [editor on GitHub](https://github.com/Animousd/Pygmalion.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 【老鲤也很无奈啊】
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    老鲤对于有人为了涩他而不被屏蔽特地专门搭了个博客这件事感到无可奈何。
 
-### Markdown
+  虽然一时半会想不到要写啥车和lof对狙，但总而言之，现在已经没有任何东西能阻止我涩老鲤了
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  以上，咳嗯
 
-```markdown
-Syntax highlighted code block
+  基本功能就是使用markdown进行文字编写排版，以及插入图片（使用url）可以下一个Typora辅助码字
 
-# Header 1
-## Header 2
-### Header 3
+  之后再试试增加和ui设计，实际上github论坛里面不少开源主题也可以尝试一下
 
-- Bulleted
-- List
+  主要的个人网站我看看怎么整理一下教程打包上传
+  不过全都是基于pc端操作，用GitHub移动端实现还要尝试
+  本身界面应该蛮丑的？搓了个框架就发出来了.jpg
+  谢谢你看到这里
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Animousd/Pygmalion.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
